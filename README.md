@@ -1,6 +1,6 @@
 # C-Fractal-Images
 
-Here is an example of fractal images using the mandelbrot algorithm, which also includes a Zoom in feature: 
+A program that generates fractal images using the mandelbrot algorithm, which also includes a Zoom in feature: 
 
 # Before zoom in:
 ![Before zoom in:](Images/fracbefore.png)
